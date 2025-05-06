@@ -2,23 +2,32 @@
 
 TeckTrek is a full-stack career planning web application designed to help users build, enhance, and manage their professional profiles. With AI-powered resume assistance, clean UI, and secure user authentication, TeckTrek provides a modern solution for students and professionals aiming to take control of their career journey.
 
-## 🔑 Features
+![TeckTrek Banner](https://your-screenshot-or-banner-url-if-you-have-one)
 
-- Secure user authentication with Clerk
-- AI-powered resume improvements using Google Gemini
-- Add and edit experience, education, projects, skills, and summaries
-- Real-time form validation with React Hook Form + Zod
-- Persistent user data with PostgreSQL and Prisma
-- Clean and responsive UI built with Tailwind CSS and Shadcn components
+## 🌐 Live Demo
 
-## 🧱 Tech Stack
+Hosted on [Vercel](https://tecktrek.vercel.app)
 
-- **Frontend:** Next.js (App Router), React, Tailwind CSS
-- **Backend:** Node.js, Prisma ORM, PostgreSQL
-- **Auth:** Clerk
-- **AI Integration:** Google Generative AI (Gemini 1.5 Flash)
-- **Form Validation:** React Hook Form + Zod
-- **Icons/UI:** Lucide-react, Shadcn/UI
+## 📌 Features
+
+- 🔐 Secure authentication with [Clerk](https://clerk.dev/)
+- 🤖 AI-powered content improvement with Google Gemini
+- 🧾 Add/edit experiences, education, skills, and summary
+- ✅ Smart form validation (React Hook Form + Zod)
+- 💾 Data persistence with Prisma + PostgreSQL
+- 💡 Clean UI with Tailwind CSS and Shadcn components
+
+## 🛠 Tech Stack
+
+| Tech        | Purpose                          |
+|-------------|----------------------------------|
+| Next.js     | Full-stack React framework       |
+| Clerk       | User authentication              |
+| Google Gemini | AI resume content generation |
+| Prisma      | ORM for PostgreSQL               |
+| Tailwind CSS | UI styling                      |
+| Shadcn/UI   | UI components                    |
+| Vercel      | Hosting and deployment           |
 
 ## 🚀 Roadmap
 
