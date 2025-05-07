@@ -2,7 +2,7 @@
 
 TeckTrek is a full-stack career planning web application designed to help users build, enhance, and manage their professional profiles. With AI-powered resume assistance, clean UI, and secure user authentication, TeckTrek provides a modern solution for students and professionals aiming to take control of their career journey.
 
-![TeckTrek Banner](https://your-screenshot-or-banner-url-if-you-have-one)
+![TeckTrek Banner](https://techtrek-delta.vercel.app)
 
 ## 🌐 Live Demo
 
