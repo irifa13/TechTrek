@@ -5,11 +5,11 @@ TeckTrek is a full-stack career planning web application designed to help users 
 
 ## 🌐 Live Demo
 
-Hosted on [Vercel](https://techtrek-delta.vercel.app)
+Hosted on Vercel
 
 ## 📌 Features
 
-- 🔐 Secure authentication with [Clerk](https://clerk.dev/)
+- 🔐 Secure authentication with Clerk
 - 🤖 AI-powered content improvement with Google Gemini
 - 🧾 Add/edit experiences, education, skills, and summary
 - ✅ Smart form validation (React Hook Form + Zod)
